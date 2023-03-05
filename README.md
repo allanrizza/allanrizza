@@ -94,7 +94,7 @@
 
 <li>
 <a href="https://instagram.com/allan_rizza" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  allan gilbert rizza-%2300acee.svg?color=E1306C&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;vertical-align:middle" />
+<img src="https://img.shields.io/badge/instagram:  allan gilbert rizza-%2300acee.svg?color=E1306C&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" align=center />
 </a>
 </li>
 
@@ -102,7 +102,7 @@
 
 <li>
 <a href="mailto:allanrizza.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  allan gilbert rizza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px; vertical-align:middle;" />
+<img src="https://img.shields.io/badge/gmail:  allan gilbert rizza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" align=center />
 </a>
 </li>
 	
