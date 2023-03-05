@@ -15,7 +15,7 @@
 • Currently learning Data Structures and Algorithms in Java and Calculus<br>
 • Currently working at Pumpkin Tech<br>
 • Java is my favorite language<br>
-• <i>ad maiora semper</i> is my motto
+
 </div>
 
 <br><br>
