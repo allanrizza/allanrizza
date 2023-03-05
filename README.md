@@ -2,7 +2,7 @@
 
 <br>
 	
-## <picture><img src = "https://tenor.com/pt-BR/view/cat-computer-mouse-notebook-developer-gif-17611078.gif" width = 100px style="vertical-align:middle"></picture> **About me**
+## <picture><img src = "https://tenor.com/pt-BR/view/cat-computer-mouse-notebook-developer-gif-17611078.gif" width = 100px style="vertical-align:middle" align=top></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
