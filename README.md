@@ -6,17 +6,16 @@
 
 <br>
 
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 150px>
+<img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 150px>
 
-<div align="right">
+<div align="left">
 
-Computer Science student |<br>
-Java Back-end Engineer |<br>
-Currently learning Data Structures and Algorithms in Java and Calculus |<br>
-Currently working at Pumpkin Tech |<br>
-Java is my favorite language |<br>
-<i>~ad maiora semper~</i> is my motto |<br>
-
+• Computer Science student<br>
+• Java Back-end Engineer<br>
+• Currently learning Data Structures and Algorithms in Java and Calculus<br>
+• Currently working at Pumpkin Tech<br>
+• Java is my favorite language<br>
+• <i>ad maiora semper</i> is my motto
 </div>
 
 <br><br>
