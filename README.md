@@ -4,7 +4,7 @@
 	
 ## <img src = "https://tenor.com/pt-BR/view/cat-computer-mouse-notebook-developer-gif-17611078.gif" width = 100px align=center> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
 
 <br>
 
@@ -86,7 +86,7 @@
 
 <li>
 <a href="https://linkedin.com/in/allanrizza" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  allan gilbert rizza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px; vertical-align:middle"/>
+<img src="https://img.shields.io/badge/linkedin:  allan gilbert rizza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" align=center />
 </a>
 </li>
 
