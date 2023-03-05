@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Pumpkin Tech.
-- 🌱 I’m currently learning Data Structures and Algorithms in Java and Calculus.
+- 🌱 I’m currently increasing my knowledge of Data Structures and Algorithms in Java and Calculus.
 
 <!--
 **allanrizza/allanrizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
