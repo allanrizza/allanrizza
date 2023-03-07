@@ -2,7 +2,7 @@
 
 <br>
 
-## <img src = "https://tenor.com/pt-BR/view/cat-computer-mouse-notebook-developer-gif-17611078.gif" width = 100px align=center> **About me**
+## <img src = "https://i.pinimg.com/originals/2a/0b/d3/2a0bd3cfb855081f1080a2f3f1571df3.gif" width = 70px height = 60px align=center> **About me**
 
 <br>
 
