@@ -12,7 +12,7 @@
 
 • Computer Science student<br>
 • Java Back-end Engineer<br>
-• Currently learning Data Structures and Algorithms in Java and Calculus<br>
+• Currently learning Data Structures and Algorithms in Java, Calculus and Rust Programming Language<br>
 • Currently working at Pumpkin Tech<br>
 • Java is my favorite language<br>
 
