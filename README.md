@@ -109,4 +109,9 @@
 </li>
 	
 </ul>
+
+<br/>
+
+## <img src="https://media4.giphy.com/media/fXsmL7Yxk2ij2PHDrR/giphy.gif?cid=ecf05e479fsefs1m4bgwh2q8o7ddus0qisk3ybg28nf5xyqb&rid=giphy.gif&ct=s" width=50px align="center"> **Buy me a coffee!**
+https://www.buymeacoffee.com/allanrizzadev
 <br>
