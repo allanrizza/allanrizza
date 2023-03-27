@@ -11,8 +11,8 @@
 <div align="left">
 
 • Computer Science student<br>
-• Java Back-end Engineer<br>
-• Currently learning Data Structures and Algorithms in Java, Calculus and C Programming Language<br>
+• Software Engineer<br>
+• Currently learning Data Structures and Algorithms in Java and Calculus<br>
 • Currently working at Pumpkin Tech<br>
 • Java is my favorite programming language<br>
 
