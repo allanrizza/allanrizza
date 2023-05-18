@@ -13,7 +13,7 @@
 • Computer Science student<br>
 • Software Engineer<br>
 • Currently learning Data Structures and Algorithms in Java and Calculus<br>
-• Currently working at Pumpkin Tech<br>
+• Currently working at Selbetti<br>
 • Java is my favorite programming language<br>
 
 </div>
