@@ -8,7 +8,7 @@
 
 <img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 150px>
 
-<div align="left">
+<div align="left"> 
 • Computer Science student<br>
 • Software Engineer<br>
 • Currently learning Data Structures and Algorithms in Java and Calculus<br>
