@@ -5,10 +5,7 @@
 ## <img src = "https://i.pinimg.com/originals/2a/0b/d3/2a0bd3cfb855081f1080a2f3f1571df3.gif" width = 55px height = 45px align=center> **About me**
 
 <br>
-
-<img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 150px>
-
-<div align="left"> 
+<div align="left">
 • Computer Science student<br>
 • Software Engineer<br>
 • Currently learning Data Structures and Algorithms in Java and Calculus<br>
