@@ -15,8 +15,6 @@
 
 <br>
 
------
-
 ## <b> Hard Skills</b>
 <br>
 
@@ -56,9 +54,6 @@
 </p>
 
 <br>
-<br>
-
------
 
 ## <b> Let's Connect !</b>
 <br>
