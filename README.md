@@ -6,7 +6,6 @@
 
 <br>
 <div align="left">
-• Computer Science student<br>
 • Software Engineer<br>
 • Currently learning Data Structures and Algorithms in Java and Calculus<br>
 • Currently working at Selbetti<br>
