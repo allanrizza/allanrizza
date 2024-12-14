@@ -6,7 +6,6 @@
 
 <br>
 <div align="left">
-• Computer Science student<br>
 • Software Engineer<br>
 • Currently working at Selbetti<br>
 • Java is my favorite programming language<br>
