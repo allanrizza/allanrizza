@@ -9,6 +9,7 @@
 • Software Engineer<br>
 • Currently working at Selbetti<br>
 • Java is my favorite programming language<br>
+• Computer Engineering student<br>	
 </div>
 
 <br>
