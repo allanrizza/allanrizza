@@ -6,7 +6,7 @@
 
 <br>
 <div align="left">
-• Software Engineer<br>
+• Software Developer<br>
 • Currently working at Selbetti<br>
 • Computer Engineering student<br>	
 </div>
