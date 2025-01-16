@@ -9,7 +9,7 @@
 • Software Developer<br>
 • Currently working at Selbetti<br>
 • Computer Engineering student<br>	
-• Software Craftsman<br>
+• Software Crafter<br>
 </div>
 
 <br>
