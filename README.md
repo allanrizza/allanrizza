@@ -8,7 +8,6 @@
 <div align="left">
 • Software Developer<br>
 • Currently working at Selbetti<br>
-• Computer Engineering student<br>	
 • Software Crafter<br>
 </div>
 
