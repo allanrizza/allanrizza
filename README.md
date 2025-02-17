@@ -24,21 +24,6 @@ I'm a software developer with 3 years of experience, primarily working with Java
 ## <b> Let's Connect !</b>
 <br>
 
-<ul>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/allanrizza) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:allanrizza.dev@gmail.com)
 
-<li>
-    <a href="https://linkedin.com/in/allanrizza" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:  allan gilbert rizza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" align=center />
-    </a>
-</li>
-
-<br>
-
-<li>
-    <a href="mailto:allanrizza.dev@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail:  allan gilbert rizza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" align=center />
-    </a>
-</li>
-	
-</ul>
 <br>
