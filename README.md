@@ -6,49 +6,16 @@
 
 <br>
 <div align="left">
-• Software Developer<br>
-• Currently working at Selbetti<br>
-• Software Crafter<br>
-• Computer Engineering<br>
+I'm a software developer with 3 years of experience, primarily working with Java, C#, and TypeScript. Currently studying Computer Engineering, I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
 </div>
 
 <br>
 
-## <b> Hard Skills</b>
 <br>
 
 <p align="center">
 
-- **Languages / Technologies**:
-    
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<br>   
-    
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Workflow Platforms**:
-
-    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,py,cpp,mysql,postgres,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)](https://skillicons.dev)
 
 </p>
 
