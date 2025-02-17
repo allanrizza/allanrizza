@@ -25,7 +25,7 @@ Sou  desenvolvedor de software com 3 anos de experiência, trabalhando principal
 
 <br>
 
-## <b> Let's Connect !</b>
+## <b> Let's Connect! | Conecte-se comigo! </b>
 <br>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/allanrizza) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:allanrizza.dev@gmail.com)
