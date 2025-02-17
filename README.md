@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Allan Gilbert Rizza </b></h1>
+<h1 align="center"><b>Hi , I'm Allan Gilbert Rizza 👋 </b></h1>
 
 <br>
 
@@ -29,14 +29,6 @@ I'm a software developer with 3 years of experience, primarily working with Java
 <li>
     <a href="https://linkedin.com/in/allanrizza" target="_blank">
         <img src="https://img.shields.io/badge/linkedin:  allan gilbert rizza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" align=center />
-    </a>
-</li>
-
-<br>
-
-<li>
-    <a href="https://instagram.com/allan_rizza" target="_blank">
-        <img src="https://img.shields.io/badge/instagram:  allan gilbert rizza-%2300acee.svg?color=E1306C&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" align=center />
     </a>
 </li>
 
