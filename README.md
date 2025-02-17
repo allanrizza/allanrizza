@@ -19,7 +19,7 @@ Sou  desenvolvedor de software com 3 anos de experiência, trabalhando principal
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,py,cpp,mysql,postgres,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,py,cpp,mysql,postgres,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)
 
 </p>
 
