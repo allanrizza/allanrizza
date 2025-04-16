@@ -6,11 +6,11 @@
 
 <br>
 <div align="left">
-I'm a software developer with 3 years of experience, primarily working with Java, C#, and TypeScript. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
+I'm a software developer with 3 years of experience, primarily working with Java, C#, TypeScript and Angular. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
 
 <br><br>
 
-Sou  desenvolvedor de software com 3 anos de experiência, trabalhando principalmente com Java, C# e TypeScript. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
+Sou  desenvolvedor de software com 3 anos de experiência, trabalhando principalmente com Java, C#, TypeScript e Angular. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
 </div>
 
 <br>
@@ -19,7 +19,7 @@ Sou  desenvolvedor de software com 3 anos de experiência, trabalhando principal
 
 <p align="center">
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,nodejs,js,py,cpp,mysql,postgres,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,ts,nodejs,js,py,cpp,mysql,postgres,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)
 
 </p>
 
