@@ -1,10 +1,3 @@
-<h1 align="center"><b>Hi , I'm Allan Gilbert Rizza 👋 | Olá, eu sou Allan Gilbert Rizza 👋</b></h1>
-
-<br>
-
-## **About me | Sobre mim** 
-
-<br>
 <div align="left">
 I'm a full-stack software developer, primarily working with Java, C#, TypeScript, Angular and React. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
 
