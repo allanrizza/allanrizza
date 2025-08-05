@@ -12,7 +12,7 @@ Sou engenheiro de software full-stack, trabalhando principalmente com Java, C#, 
 
 <p align="center">
 
-![My Skills](https://skillicons.dev/icons?i=java,cs,spring,dotnet,angular,react,ts,nodejs,js,py,go,cpp,mysql,postgres,mongodb,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)
+![My Skills](https://skillicons.dev/icons?i=rust,java,cs,spring,dotnet,angular,react,ts,nodejs,js,py,go,cpp,mysql,postgres,mongodb,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)
 
 </p>
 
