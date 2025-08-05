@@ -1,9 +1,9 @@
 <div align="left">
-I'm a full-stack software developer, primarily working with Java, C#, TypeScript, Angular and React. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
+I'm a full-stack software developer, primarily working with Rust, Java, C#, TypeScript, Angular and React. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
 
 <br><br>
 
-Sou engenheiro de software full-stack, trabalhando principalmente com Java, C#, TypeScript, Angular e React. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
+Sou engenheiro de software full-stack, trabalhando principalmente com Rust, Java, C#, TypeScript, Angular e React. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
 </div>
 
 <br>
