@@ -1,9 +1,9 @@
 <div align="left">
-I'm a full-stack software developer, primarily working with Rust, Java, C#, TypeScript, Angular and React. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
+I'm a full-stack software developer, primarily working with Kotlin, Java, C#, TypeScript, Angular and React. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
 
 <br><br>
 
-Sou engenheiro de software full-stack, trabalhando principalmente com Rust, Java, C#, TypeScript, Angular e React. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
+Sou engenheiro de software full-stack, trabalhando principalmente com Kotlin, Java, C#, TypeScript, Angular e React. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
 </div>
 
 <br>
@@ -12,7 +12,7 @@ Sou engenheiro de software full-stack, trabalhando principalmente com Rust, Java
 
 <p align="center">
 
-![My Skills](https://skillicons.dev/icons?i=rust,java,cs,spring,dotnet,angular,react,ts,nodejs,js,py,go,cpp,mysql,postgres,mongodb,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,cs,spring,dotnet,angular,react,ts,nodejs,js,py,go,cpp,mysql,postgres,mongodb,sqlite,visualstudio,idea,vscode,vim,windows,linux,aws,azure,docker,kubernetes,jenkins,flutter)
 
 </p>
 
