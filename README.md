@@ -3,7 +3,7 @@ I'm a software developer, primarily working with Kotlin and Java. I am passionat
 
 <br><br>
 
-Sou engenheiro de software, trabalhando principalmente com Kotlin e Java. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
+Sou desenvolvedor de software, trabalhando principalmente com Kotlin e Java. Sou apaixonado por escrever código limpo, sustentável e eficiente. Sigo os princípios do Software Craftsmanship e busco constantemente aprimorar minhas habilidades para desenvolver soluções de software de alta qualidade.
 </div>
 
 <br>
