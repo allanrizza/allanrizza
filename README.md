@@ -3,7 +3,7 @@ I'm a software developer, primarily working with Kotlin and Java. I am passionat
 
 <p align="center">
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,idea,vscode,vim,linux)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,rust,spring,idea,vscode,vim,linux)
 
 </p>
 
