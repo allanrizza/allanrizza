@@ -1,9 +1,9 @@
 <div align="left">
-I'm a software developer, primarily working with Kotlin and Java. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
+I'm a software developer, primarily working with Java. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
 
 <p align="center">
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,rust,spring,idea,vscode,vim,linux)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,idea,vscode,vim,linux)
 
 </p>
 
