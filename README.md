@@ -3,7 +3,7 @@ I'm a software developer, primarily working with Java. I am passionate about wri
 
 <p align="center">
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,idea,vscode,vim,linux)
+![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,kotlin,spring,idea,vscode,vim,linux)
 
 </p>
 
