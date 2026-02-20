@@ -8,13 +8,11 @@ I'm a software developer, primarily working with Java. I am passionate about wri
 </p>
 
 ## <b> Let's Connect! </b>
-<br>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/allanrizza) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:allanrizza.dev@gmail.com)
 
-<br>
+
 <hr>
-<br>
 <i>Soli Deo Gloria</i>
 
 <br>
