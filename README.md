@@ -1,18 +1,4 @@
 <div align="left">
-I'm a software developer, primarily working with Java. I am passionate about writing clean, maintainable, and efficient code. I adhere to the principles of Software Craftsmanship and constantly seek to improve my skills and build high-quality software solutions.
-
-<p align="center">
-
-![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,kotlin,spring,idea,vscode,vim,linux)
-
-</p>
-
-## <b> Let's Connect! </b>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/allanrizza) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:allanrizza.dev@gmail.com)
-
-
+Software engineer with professional experience since 2022, working primarily with Java, Spring, and relational databases (SQL). I also have experience with C# / ASP.NET, Kotlin, JSF, and Java EE. Currently, I work at Mitra, developing the backend of an AI-powered full-stack no-code platform.
 <hr>
 <i>Soli Deo Gloria</i>
-
-<br>
