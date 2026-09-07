@@ -1,4 +1,4 @@
-<div align="center">/|\
+<div align="center">Soli Deo Gloria
 <hr/>
 <div align="left">
 Software engineer focused on backend systems (Java 21, Spring Boot, multi-tenant distributed platforms) and software that holds up in production. Full-stack when the product needs it.
